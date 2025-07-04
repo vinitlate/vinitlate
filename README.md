@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=vinitlate)
+![](https://komarev.com/ghpvc/?username=vinitlate&abbreviated=true)
 <!--
 **vinitlate/vinitlate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
